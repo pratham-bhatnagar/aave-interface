@@ -118,6 +118,7 @@ export const ROUTES = {
   markets: '/markets',
   staking: '/staking',
   governance: '/governance',
+  stats: '/stats',
   faucet: '/faucet',
   prerenderedProposal: (proposalId: number) => `/governance/proposal/${proposalId}`,
   dynamicRenderedProposal: (proposalId: number) => `/governance/proposal?proposalId=${proposalId}`,

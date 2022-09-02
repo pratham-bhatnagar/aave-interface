@@ -41,7 +41,7 @@ export const TopInfoPanelItem = ({
             mr: 8,
             my: 'auto',
             width: '1px',
-            bgcolor: '#F2F3F729',
+            bgcolor: '#F2F3F799',
             height: '37px',
           }}
         />
